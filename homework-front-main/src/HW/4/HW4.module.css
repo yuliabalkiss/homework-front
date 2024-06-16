@@ -1,4 +1,9 @@
-.chetNechet {
+.chet {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.nechet {
   background-color: #1f1f1f;
   color: #8a8a8a;
 }
